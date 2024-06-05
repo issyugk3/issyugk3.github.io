@@ -3,7 +3,7 @@
 title: 周学文
 
 # Name pronunciation (optional)
-name_pronunciation: Xue Wen Zhou
+name_pronunciation: Zhou Xue Wen｜シュウガクブン 
 
 # Full name (for SEO)
 first_name: Xuewen
@@ -35,6 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/issyugk3
+  - icon: brands/kaggle
+    url: https://www.kaggle.com/issyugk3
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
 
@@ -161,4 +163,5 @@ awards:
 
 ## About Me
 
-I am an undergraduate student of ZJUT. I'm currently exploring different areas in Computer Science.
+I'm an undergraduate student majoring in Software Engineering at Zhejiang University of Technology (ZJUT).
+My interests mainly revolve around Computer Vision, with a focus on medical image processing, Cognitive Radio Network, and Data Visualization (just started).
