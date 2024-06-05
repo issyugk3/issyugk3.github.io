@@ -40,9 +40,9 @@ profiles:
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
 interests:
-  - <p class="custom-text-color">Machine Learning </p>
-  - <p class="custom-text-color">Computer Vision for Medical Image</p>
-  - <p class="custom-text-color">Cognitive Radio Network</p>
+  - Machine Learning 
+  - Computer Vision for Medical Image
+  - Cognitive Radio Network
 
 education:
   - area: BS in Software Engineering
