@@ -39,26 +39,31 @@ profiles:
     url: https://www.kaggle.com/issyugk3
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
-
-
+{{< coloredtext class="white-text" >}}
 interests:
-  - Machine Learning
-  - Computer Vision for Medical Image
-  - Cognitive Radio Network
+- Machine Learning
+- Computer Vision for Medical Image
+- Cognitive Radio Network
 
+{{< /coloredtext >}}
+
+{{< coloredtext class="white-text" >}}
 education:
-  - area: BS in Software Engineering
-    institution: Zhejiang University of Technology
-    date_start: 2021-09-01
-    date_end: 2025-06-30
-    summary: |
+- area: BS in Software Engineering
+  institution: Zhejiang University of Technology
+  date_start: 2021-09-01
+  date_end: 2025-06-30
+  summary: |
 
-      
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+
+{{< /coloredtext >}}
+
+ work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
