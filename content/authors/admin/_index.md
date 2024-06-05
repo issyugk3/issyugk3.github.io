@@ -41,14 +41,14 @@ profiles:
     # url: https://scholar.google.com/
 
 
-<p class="custom-text-color">interests</p>:
-  - <p class="custom-text-color">Machine Learning</p>
-  - <p class="custom-text-color">Computer Vision for Medical Image</p>
-  - <p class="custom-text-color">Cognitive Radio Network</p>
+interests:
+  - Machine Learning
+  - Computer Vision for Medical Image
+  - Cognitive Radio Network
 
-<p class="custom-text-color">education</p>:
-  - area: <p class="custom-text-color">BS in Software Engineering</p>
-    institution: <p class="custom-text-color">Zhejiang University of Technology</p>
+education:
+  - area: BS in Software Engineering
+    institution: Zhejiang University of Technology
     date_start: 2021-09-01
     date_end: 2025-06-30
     summary: |
