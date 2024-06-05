@@ -3,7 +3,7 @@
 title: 周学文
 
 # Name pronunciation (optional)
-name_pronunciation: Zhou Xue Wen｜シュウガクブン 
+name_pronunciation: Xuewen Zhou｜シュウガクブン 
 
 # Full name (for SEO)
 first_name: Xuewen
@@ -41,12 +41,12 @@ profiles:
     # url: https://scholar.google.com/
 interests:
   - <p class="custom-text-color">Machine Learning </p>
-  - Computer Vision for Medical Image
-  - Cognitive Radio Network
+  - <p class="custom-text-color">Computer Vision for Medical Image</p>
+  - <p class="custom-text-color">Cognitive Radio Network</p>
 
 education:
-  - area: BS in Software Engineering
-    institution: Zhejiang University of Technology 
+  - area: <p class="custom-text-color">BS in Software Engineering</p>
+    institution: <p class="custom-text-color">Zhejiang University of Technology </p>
     date_start: 2021-09-01 
     date_end: 2025-06-30
     summary: |
