@@ -45,8 +45,8 @@ interests:
   - <p class="custom-text-color">Cognitive Radio Network</p>
 
 education:
-  - area: {{< color textColor="white" >}} BS in Software Engineering {{< /color >}}
-    institution: {{< color textColor="white" >}} Zhejiang University of Technology {{< /color >}}
+  - area: BS in Software Engineering
+    institution: Zhejiang University of Technology
     date_start: 2021-09-01 
     date_end: 2025-06-30
     summary: |
