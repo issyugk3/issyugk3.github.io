@@ -48,7 +48,7 @@ education:
   - area: BS in Software Engineering
     institution: Zhejiang University of Technology
     date_start: 2021-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
 
       
@@ -86,29 +86,34 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'Pytorch, Numpy, Matplotlab, Scipy'
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Java
+        description: 'Servlet, SpringBoot, Mybatis'
         icon: chart-bar
-      - name: SQL
+      - name: C++
         description: ''
-        percent: 40
+        icon: chart-bar
+      - name: Frontend
+        description: 'Html, CSS, JavaScript, Vue'
+        icon: chart-bar
+      - name: MYSQL
+        description: ''
         icon: circle-stack
+      - name: Linux
+        description: ''
+        icon: chart-bar
+      - name: Docker
+        description: ''
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Jazz
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
         percent: 80
@@ -120,7 +125,7 @@ languages:
   - name: English
     percent: 75
   - name: Japanese
-    percent: 25
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -156,4 +161,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student of ZJUT. I'm currently exploring different areas in Computer Science.
