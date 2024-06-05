@@ -163,5 +163,8 @@ awards:
 
 ## About Me
 
-I'm an undergraduate student majoring in Software Engineering at Zhejiang University of Technology (ZJUT).
-My interests mainly revolve around Computer Vision, with a focus on medical image processing, Cognitive Radio Network, and Data Visualization (just started).
+
+<p class="custom-text-color">I'm an undergraduate student majoring in Software Engineering at Zhejiang University of Technology (ZJUT).
+My interests mainly revolve around Computer Vision, with a focus on medical image processing, Cognitive Radio Network, and Data Visualization (just started).</p>
+
+
