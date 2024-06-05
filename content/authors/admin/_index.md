@@ -39,15 +39,12 @@ profiles:
     url: https://www.kaggle.com/issyugk3
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
-{{< coloredtext class="white-text" >}}
 interests:
 - Machine Learning
 - Computer Vision for Medical Image
 - Cognitive Radio Network
 
-{{< /coloredtext >}}
 
-{{< coloredtext class="white-text" >}}
 education:
 - area: BS in Software Engineering
   institution: Zhejiang University of Technology
@@ -61,7 +58,6 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-{{< /coloredtext >}}
 
  work:
   - position: Director of Cloud Infrastructure
