@@ -39,12 +39,12 @@ profiles:
     url: https://www.kaggle.com/issyugk3
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
-<p class="custom-text-color">interests</p>:
+interests:
   - <p class="custom-text-color">Machine Learning </p>
   - <p class="custom-text-color">Computer Vision for Medical Image</p>
   - <p class="custom-text-color">Cognitive Radio Network</p>
 
-<p class="custom-text-color">education</p>:
+education:
   - <p class="custom-text-color">area: BS in Software Engineering</p>
     <p class="custom-text-color">institution: Zhejiang University of Technology </p>
     date_start: 2021-09-01 
