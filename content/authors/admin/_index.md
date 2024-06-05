@@ -40,7 +40,7 @@ profiles:
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
 interests:
-  - <p class="custom-text-color">Machine Learning</p>
+  - Machine Learning
   - Computer Vision for Medical Image
   - Cognitive Radio Network
 education:
