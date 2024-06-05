@@ -40,9 +40,10 @@ profiles:
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
 interests:
-  - Machine Learning
+  - <p class="custom-text-color">Machine Learning </p>
   - Computer Vision for Medical Image
   - Cognitive Radio Network
+
 education:
   - area: BS in Software Engineering
     institution: Zhejiang University of Technology 
@@ -55,7 +56,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
- work:
+work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
