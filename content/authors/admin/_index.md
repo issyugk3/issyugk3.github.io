@@ -45,7 +45,6 @@ interests:
   - Cognitive Radio Network
 
 education:
-  color: white
   - area: BS in Software Engineering
     institution: Zhejiang University of Technology
     date_start: 2021-09-01 
