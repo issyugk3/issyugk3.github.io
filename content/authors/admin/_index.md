@@ -139,11 +139,11 @@ awards:
     summary: |
       I have been self-studying Japanese for over 1.5 years and recently took the Japanese-Language Proficiency Test (JLPT) at level N1, administered by the Japan Foundation and Japan Educational Exchanges and Services (JF & JEES) and successfully passed the exam. This is a proof of my study experience.
 
-- title: Second Prize in Enterprise Proposition Category
-  date: '2024-08-08'
-  awarder: 15th China College Students' Service Outsourcing Innovation and Entrepreneurship Competition
-  icon: competition
-  summary: |
+  - title: Second Prize in Enterprise Proposition Category
+    date: '2024-08-08'
+    awarder: 15th China College Students' Service Outsourcing Innovation and Entrepreneurship Competition
+    icon: competition
+    summary: |
     Secured the Second Prize in the enterprise proposition category at a national-level competition. Our project focused on "A32 Challenge: Intelligent Annotation and Enhancement Simulator for Image Data Based on Large Models." I was responsible for software development using PyQt.
 
 ---
