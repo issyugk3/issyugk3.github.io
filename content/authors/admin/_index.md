@@ -142,7 +142,7 @@ awards:
   - title: Second Prize in 15th National Enterprise Proposition Category
     date: '2024-08-08'
     awarder: 15th China College Students' Service Outsourcing Innovation and Entrepreneurship Competition
-    icon: competition
+    icon: 2ndprize
     summary: |
       Secured the Second Prize in the enterprise proposition category at a national-level competition. Our project focused on "A32 Challenge: Intelligent Annotation and Enhancement Simulator for Image Data Based on Large Models." I was responsible for software development using PyQt. Optimized the software with threads system.
 
