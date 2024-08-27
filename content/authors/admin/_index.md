@@ -87,27 +87,37 @@ skills:
       - name: Frontend
         description: 'Html, CSS, JavaScript, Vue'
         icon: chart-bar
-      - name: MYSQL
-        description: ''
+      - name: SQL
+        description: 'MYSQL, opengauss'
         icon: circle-stack
       - name: Linux
-        description: ''
+        description: 'Shell'
         icon: chart-bar
       - name: Docker
         description: ''
         icon: chart-bar
-  - name: Hobbies
+  - name: Hobbies & Other Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Jazz
+      - name: Jazz Music
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: music
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Piano
+        description: 'Level 4 (Amateur) from Zhejiang Conservatory of Music'
+        percent: 40
+        icon: piano
+      - name: Music Fundamentals
+        description: 'Level 2 (Amateur) from Central Conservatory of Music'
+        percent: 20
+        icon: Music
+
+        
 
 languages:
   - name: Chinese
