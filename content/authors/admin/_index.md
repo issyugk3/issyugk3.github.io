@@ -77,10 +77,10 @@ skills:
     items:
       - name: Python
         description: 'Pytorch, Numpy, Matplotlab, Scipy'
-        icon: code-bracket
+        icon: python
       - name: Java
         description: 'Servlet, SpringBoot, Mybatis'
-        icon: chart-bar
+        icon: java
       - name: C++
         description: ''
         icon: chart-bar
