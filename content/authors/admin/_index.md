@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/issyugk3
-  - icon: kaggle
-    url: https://www.kaggle.com/issyugk3
+  - icon: brands/x
+    url: https://x.com/issyugk3
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
 interests:
