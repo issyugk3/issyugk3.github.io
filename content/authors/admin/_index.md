@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/issyugk3
-  - icon: brands/kaggle
+  - icon: assets/icons/kaggle.svg
     url: https://www.kaggle.com/issyugk3
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
@@ -123,46 +123,35 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 75
+    percent: 80
   - name: Japanese
-    percent: 40
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: JLPT-N1
+    date: '2024-8-26'
+    awarder: JF&JEES
+    icon: assets/icons/JLPT.svg
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I have been self-studying Japanese for over 1.5 years and recently took the Japanese-Language Proficiency Test (JLPT) at level N1, administered by the Japan Foundation and Japan Educational Exchanges and Services (JF & JEES) and successfully passed the exam. This is a proof of my study experience.
+
+- title: Second Prize in Enterprise Proposition Category
+  date: '2024-08-08'
+  awarder: 15th China College Students' Service Outsourcing Innovation and Entrepreneurship Competition
+  icon: competition
+  summary: |
+    Secured the Second Prize in the enterprise proposition category at a national-level competition. Our project focused on "A32 Challenge: Intelligent Annotation and Enhancement Simulator for Image Data Based on Large Models." I was responsible for software development using PyQt.
+
 ---
 
 ## About Me
 
 
-<p class="custom-text-color">I'm an undergraduate student majoring in Software Engineering at Zhejiang University of Technology (ZJUT).
-My interests mainly revolve around Computer Vision, with a focus on medical image processing, Cognitive Radio Network, and Data Visualization (just started).</p>
+<p class="custom-text-color">I'm an undergraduate student majoring in Software Engineering at Zhejiang University of Technology (ZJUT). 
+My interests mainly revolve around Computer Vision, with a focus on medical image processing, Computaional Biology(just started), and Data Visualization.</p>
 
 
