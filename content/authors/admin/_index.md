@@ -37,6 +37,8 @@ profiles:
     url: https://github.com/issyugk3
   - icon: brands/x
     url: https://x.com/issyugk3
+  - icon: "custom/kaggle"
+    url: https://kaggle.com/issyugk3
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
 interests:
