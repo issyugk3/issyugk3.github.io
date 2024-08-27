@@ -92,7 +92,7 @@ skills:
         icon: circle-stack
       - name: Linux
         description: 'Shell'
-        icon: chart-bar
+        icon: "custom/linux"
       - name: Docker
         description: ''
         icon: "custom/docker"
@@ -114,7 +114,7 @@ skills:
       - name: Piano
         description: 'Level 4 (Amateur) from Zhejiang Conservatory of Music'
         percent: 40
-        icon: "custom/piano"
+        icon: "custom/music"
       - name: Music Fundamentals
         description: 'Level 2 (Amateur) from Central Conservatory of Music'
         percent: 20
