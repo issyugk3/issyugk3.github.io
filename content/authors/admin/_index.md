@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/issyugk3
-  - icon: assets/icons/kaggle.svg
+  - icon: kaggle
     url: https://www.kaggle.com/issyugk3
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/
@@ -135,7 +135,7 @@ awards:
   - title: JLPT-N1
     date: '2024-8-26'
     awarder: JF & JEES
-    icon: assets/icons/JLPT.svg
+    icon: JLPT
     summary: |
       I have been self-studying Japanese for over 1.5 years and recently took the Japanese-Language Proficiency Test (JLPT) at level N1, administered by the Japan Foundation and Japan Educational Exchanges and Services (JF & JEES) and successfully passed the exam. This is a proof of my study experience.
 
