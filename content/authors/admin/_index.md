@@ -80,13 +80,13 @@ skills:
         icon: python
       - name: Java
         description: 'Servlet, SpringBoot, Mybatis'
-        icon: java
+        icon: "custom/java"
       - name: C++
         description: ''
-        icon: chart-bar
+        icon: "custom/cpp"
       - name: Frontend
         description: 'Html, CSS, JavaScript, Vue'
-        icon: chart-bar
+        icon: code-bracket
       - name: SQL
         description: 'MYSQL, opengauss'
         icon: circle-stack
@@ -95,7 +95,10 @@ skills:
         icon: chart-bar
       - name: Docker
         description: ''
-        icon: chart-bar
+        icon: "custom/docker"
+      - name: Writing
+        description: 'Makrdown & LaTeX'
+        icon: markdown
   - name: Hobbies & Other Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -103,7 +106,7 @@ skills:
       - name: Jazz Music
         description: ''
         percent: 60
-        icon: music
+        icon: "custom/music"
       - name: Photography
         description: ''
         percent: 80
@@ -111,11 +114,11 @@ skills:
       - name: Piano
         description: 'Level 4 (Amateur) from Zhejiang Conservatory of Music'
         percent: 40
-        icon: piano
+        icon: "custom/piano"
       - name: Music Fundamentals
         description: 'Level 2 (Amateur) from Central Conservatory of Music'
         percent: 20
-        icon: Music
+        icon: "custom/music"
 
         
 
