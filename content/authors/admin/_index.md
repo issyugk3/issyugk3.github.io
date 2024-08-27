@@ -42,7 +42,8 @@ profiles:
 interests:
   - Machine Learning 
   - Computer Vision for Medical Image
-  - Cognitive Radio Network
+  - Computationl Biology
+  - Data Visualization
 
 education:
   - area: BS in Software Engineering
@@ -53,32 +54,21 @@ education:
 
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data Structures
+      - Numerical Computation Methods and Its Implementation
+      - Data Visualization
+      - Programming(JAVA & C++)
+      - Web Application Development
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Soon Know
+    company_name: upcoming
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-10
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - upcoming
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -139,12 +129,12 @@ awards:
     summary: |
       I have been self-studying Japanese for over 1.5 years and recently took the Japanese-Language Proficiency Test (JLPT) at level N1, administered by the Japan Foundation and Japan Educational Exchanges and Services (JF & JEES) and successfully passed the exam. This is a proof of my study experience.
 
-  - title: Second Prize in Enterprise Proposition Category
+  - title: Second Prize in 15th National Enterprise Proposition Category
     date: '2024-08-08'
     awarder: 15th China College Students' Service Outsourcing Innovation and Entrepreneurship Competition
     icon: competition
     summary: |
-    Secured the Second Prize in the enterprise proposition category at a national-level competition. Our project focused on "A32 Challenge: Intelligent Annotation and Enhancement Simulator for Image Data Based on Large Models." I was responsible for software development using PyQt.
+      Secured the Second Prize in the enterprise proposition category at a national-level competition. Our project focused on "A32 Challenge: Intelligent Annotation and Enhancement Simulator for Image Data Based on Large Models." I was responsible for software development using PyQt. Optimized the software with threads system.
 
 ---
 
