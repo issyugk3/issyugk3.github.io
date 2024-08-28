@@ -149,7 +149,8 @@ awards:
     awarder: 15th China College Students' Service Outsourcing Innovation and Entrepreneurship Competition
     icon: 2ndprize
     summary: |
-      Secured the Second Prize in the enterprise proposition category at a national-level competition. Our project focused on "A32 Challenge: Intelligent Annotation and Enhancement Simulator for Image Data Based on Large Models." I was responsible for software development using PyQt. Optimized the software with threads system.
+      Secured the Second Prize in the enterprise proposition category at a national-level competition. Our project focused on "A32 Challenge: Intelligent Annotation and Enhancement Simulator for Image Data Based on Large Models." 
+      <br>I was responsible for software development using PyQt, Pytorch and Opencv for python.
 
 ---
 
