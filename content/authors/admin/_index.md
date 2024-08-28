@@ -142,7 +142,7 @@ awards:
     awarder: JF & JEES
     icon: JLPT
     summary: |
-      I have been self-studying Japanese for over 1.5 years and recently took the Japanese-Language Proficiency Test (JLPT) at level N1, administered by the Japan Foundation and Japan Educational Exchanges and Services (JF & JEES) and successfully passed the exam. This is a proof of my study experience.
+      I have been self-studying Japanese for over 1.5 years and recently took the Japanese-Language Proficiency Test (JLPT) at level N1, administered by the Japan Foundation and Japan Educational Exchanges and Services (JF & JEES) and successfully passed the exam. This is a certification of my study experience.
 
   - title: Second Prize in 15th National Enterprise Proposition Category
     date: '2024-08-08'
