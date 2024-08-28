@@ -32,4 +32,8 @@ sections:
     content:
       title: Languages
       username: admin
+  - block: collections
+    content:
+      title: Online Awards
+      username: admin
 ---
