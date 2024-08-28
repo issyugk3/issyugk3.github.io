@@ -32,8 +32,9 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: accomplishments
+  - block: resume-awards
     content:
       title: Online Awards
+      subtitle: Certification collections of Online Courses
       username: admin
 ---
