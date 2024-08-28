@@ -152,6 +152,16 @@ awards:
       Secured the Second Prize in the enterprise proposition category at a national-level competition. Our project focused on "A32 Challenge: Intelligent Annotation and Enhancement Simulator for Image Data Based on Large Models." 
       <br>I was responsible for software development using PyQt, Pytorch and Opencv for python.
 
+
+Online Awards:
+  - title: Data Cleaning
+    url: "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
+    awarder: Kaggle
+    icon: "custom/kaggleComp"
+    summary: |
+      A certification of Kaggle Online Courses for Data Cleaning.
+
+
 ---
 
 ## About Me
