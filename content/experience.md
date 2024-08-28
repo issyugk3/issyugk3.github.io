@@ -32,7 +32,7 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: resume-award
+  - block: accomplishments
     content:
       title: Online Awards
       username: admin
