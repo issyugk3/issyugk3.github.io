@@ -105,7 +105,11 @@ skills:
   - name: Technical Skills
     items:
       - name: Data Cleaning
-        description: "Received From Kaggle"
+        description: "Received from Kaggle. Learnt basic process of data cleaning."
+        icon: "custom/kaggleComp"
+        url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
+      - name: Pandas
+        description: "Received from Kaggle. Learnt operations of Pandas library."
         icon: "custom/kaggleComp"
         url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
 
@@ -118,7 +122,7 @@ skills:
         percent: 60
         icon: "custom/music"
       - name: Photography
-        description: ''
+        description: ''d
         percent: 80
         icon: camera
       - name: Piano
