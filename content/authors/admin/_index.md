@@ -105,7 +105,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Data Cleaning
-        description: ''
+        description: ['Received From Kaggle'](https://www.kaggle.com/learn/certification/issyugk3/data-cleaning)
         icon: "custom/kaggleComp"
         url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
 
