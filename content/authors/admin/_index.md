@@ -105,15 +105,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Data Cleaning
-        description: "Received from Kaggle. Learnt basic process of data cleaning."
-        icon: "custom/kaggleComp"
-        url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
-      - name: Pandas
-        description: "Received from Kaggle. Learnt operations of Pandas library."
-        icon: "custom/kaggleComp"
-        url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
-      - name: Intro to Game AI & RL
-        description: "Received from Kaggle. Learnt operations of Pandas library."
+        description: "Received from Kaggle. Basic processing of cleaning data."
         icon: "custom/kaggleComp"
         url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
 
