@@ -112,8 +112,8 @@ skills:
         description: "Received from Kaggle. Learnt operations of Pandas library."
         icon: "custom/kaggleComp"
         url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
-      - name: Intro to Game AI &
-        description: "Received from Kaggle. Learnt operations of Pandas library."
+      - name: Intro to Game AI & RL
+        description: "Received from Kaggle. Learnt basic idea of Reinforcement Learning."
         icon: "custom/kaggleComp"
         url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
 
