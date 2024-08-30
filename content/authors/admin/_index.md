@@ -108,6 +108,14 @@ skills:
         description: "Received from Kaggle. Basic processing of cleaning data."
         icon: "custom/kaggleComp"
         url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
+      - name: Pandas
+        description: "Received from Kaggle. Learnt operations of Pandas library."
+        icon: "custom/kaggleComp"
+        url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
+      - name: Intro to Game AI &
+        description: "Received from Kaggle. Learnt operations of Pandas library."
+        icon: "custom/kaggleComp"
+        url : "https://www.kaggle.com/learn/certification/issyugk3/data-cleaning"
 
   - name: Hobbies & Other Skills
     color: '#eeac02'
@@ -118,7 +126,7 @@ skills:
         percent: 60
         icon: "custom/music"
       - name: Photography
-        description: ''d
+        description: ''
         percent: 80
         icon: camera
       - name: Piano
