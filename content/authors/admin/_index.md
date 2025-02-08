@@ -174,6 +174,6 @@ awards:
 
 
 <p class="custom-text-color">I'm an undergraduate student majoring in Software Engineering at Zhejiang University of Technology (ZJUT). 
-My interests mainly revolve around Computer Vision, with a focus on medical image processing, Computaional Biology(just started), and Data Visualization.</p>
+My interests mainly revolve around Computational Biology(just started), Computer Vision, and Data Visualization. I will be joining in Nakato Lab at The University of Tokyo in October as a master's student under Professor Nakato's supervision!</p>
 
 
