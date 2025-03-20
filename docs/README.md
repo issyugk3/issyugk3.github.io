@@ -3,13 +3,14 @@ pageLayout: home
 externalLinkIcon: false
 config:
   -
-    type: hero
+    type: banner
     full: true
     background: tint-plate
+    bannerMask: 0.6
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: A simple, feature-rich, document & blog
+      name: issyugk3
+      tagline: Undergraduate Student & Developer
+      text: Logic takes me from A to B, imagination takes me to anywhere.
       actions:
         -
           theme: brand
@@ -18,5 +19,22 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/issyugk3
+
+  -
+    type: image-text
+    title: Hi / 你好 / こんにち, I am @issyugk3!
+    description: 
+    image: /self.JPG
+    list:
+      -
+        title: Research Interests
+        description: I am interested in *Machine Learning, *Bioinformatics&Computational Biology, *Data Mining&Visualization, *Image Processing.
+        
+      -
+        title: Recently
+        description: I will be joining the *Nakato Lab* at IQB, The University of Tokyo. I am really excited about this new journey!
+
+      - title: self-resume
+        description:  
 ---

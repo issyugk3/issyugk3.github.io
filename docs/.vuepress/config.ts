@@ -29,6 +29,22 @@ export default defineUserConfig({
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',
+    // profile: {
+    //   name: 'ZHOU, Xuewen',
+    //   description: '描述文字，座右铭/签名',
+    //   avatar: '/blogger.png',
+    //   location: 'Hangzhou, China',
+    //   organization: 'Zhejiang Uni. of Technology',
+    //   circle: true, // 是否为圆形头像
+    //   layout: 'right', // 个人信息在左侧还是右侧，'left' | 'right'
+      
+    // },
+    // social: [
+    //   { icon: 'github', link: 'https://github.com/issyugk3' },
+
+    // ],
+    
+
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
@@ -46,14 +62,14 @@ export default defineUserConfig({
      * @see https://theme-plume.vuejs.press/config/basic/#blog
      */
     // blog: false, // 禁用博客
-    // blog: {
-    //   postList: true, // 是否启用文章列表页
-    //   tags: true, // 是否启用标签页
-    //   archives: true, // 是否启用归档页
-    //   categories: true, // 是否启用分类页
-    //   postCover: 'right', // 文章封面位置
-    //   pagination: 15, // 每页显示文章数量
-    // },
+    blog: {
+      postList: true, // 是否启用文章列表页
+      tags: true, // 是否启用标签页
+      archives: true, // 是否启用归档页
+      categories: true, // 是否启用分类页
+      postCover: 'right', // 文章封面位置
+      pagination: 15, // 每页显示文章数量
+    },
 
     /* 博客文章页面链接前缀 */
     article: '/article/',
@@ -106,10 +122,10 @@ export default defineUserConfig({
       * markdown
       * @see https://theme-plume.vuejs.press/config/markdown/
       */
-    // markdown: {
+    markdown: {
     //   abbr: true,         // 启用 abbr 语法  *[label]: content
     //   annotation: true,   // 启用 annotation 语法  [+label]: content
-    //   pdf: true,          // 启用 PDF 嵌入 @[pdf](/xxx.pdf)
+         pdf: true,          // 启用 PDF 嵌入 @[pdf](/xxx.pdf)
     //   caniuse: true,      // 启用 caniuse 语法  @[caniuse](feature_name)
     //   plot: true,         // 启用隐秘文本语法 !!xxxx!!
     //   bilibili: true,     // 启用嵌入 bilibili视频 语法 @[bilibili](bid)
@@ -128,9 +144,9 @@ export default defineUserConfig({
     //     rust: true,       // ::: rust-repl
     //     kotlin: true,     // ::: kotlin-repl
     //   },
-    //   math: {             // 启用数学公式
-    //     type: 'katex',
-    //   },
+      math: {             // 启用数学公式
+        type: 'katex',
+      },
     //   chartjs: true,      // 启用 chart.js
     //   echarts: true,      // 启用 ECharts
     //   mermaid: true,      // 启用 mermaid
@@ -143,7 +159,7 @@ export default defineUserConfig({
     //   },
     //   include: true,      // 在 Markdown 文件中导入其他 markdown 文件内容
     //   imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
-    // },
+    },
 
     /**
      * 水印
