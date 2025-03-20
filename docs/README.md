@@ -32,9 +32,9 @@ config:
         description: I am interested in *Machine Learning, *Bioinformatics&Computational Biology, *Data Mining&Visualization, *Image Processing.
         
       -
-        title: Recently
+        title: Rencently
         description: I will be joining the *Nakato Lab* at IQB, The University of Tokyo. I am really excited about this new journey!
 
-      - title: self-resume
-        description:  
+      - title: Hobbies
+        description: I love Jazz / JPOP / KPOP music. I like FPS / Battle Royale / ACT / RPG types of games.
 ---

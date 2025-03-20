@@ -7,20 +7,15 @@ export default defineUserConfig({
   lang: 'en-US',
   locales: {
     '/': {
-      title: 'My Blog',
+      title: 'issyugk3.space',
       lang: 'en-US',
-      description: 'To record new things I have learnt',
-    },
-    '/zh/': {
-      title: 'My Blog',
-      lang: 'zh-CN',
-      description: 'To record new things I have learnt',
+      description: 'To record.',
     },
   },
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/pics/star.png' }],
   ],
 
   bundler: viteBundler(),
@@ -64,8 +59,8 @@ export default defineUserConfig({
     // blog: false, // 禁用博客
     blog: {
       postList: true, // 是否启用文章列表页
-      tags: true, // 是否启用标签页
-      archives: true, // 是否启用归档页
+      tags: false, // 是否启用标签页
+      archives: false, // 是否启用归档页
       categories: true, // 是否启用分类页
       postCover: 'right', // 文章封面位置
       pagination: 15, // 每页显示文章数量
@@ -132,7 +127,7 @@ export default defineUserConfig({
     //   youtube: true,      // 启用嵌入 youtube视频 语法 @[youtube](video_id)
     //   artPlayer: true,    // 启用嵌入 artPlayer 本地视频 语法 @[artPlayer](url)
     //   audioReader: true,  // 启用嵌入音频朗读功能 语法 @[audioReader](url)
-    //   icons: true,        // 启用内置图标语法  :[icon-name]:
+      icons: true,        // 启用内置图标语法  :[icon-name]:
     //   codepen: true,      // 启用嵌入 codepen 语法 @[codepen](user/slash)
     //   replit: true,       // 启用嵌入 replit 语法 @[replit](user/repl-name)
     //   codeSandbox: true,  // 启用嵌入 codeSandbox 语法 @[codeSandbox](id)
