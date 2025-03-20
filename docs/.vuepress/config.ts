@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/issyugk3.github.io/',
+  base: '/',
   lang: 'en-US',
   locales: {
     '/': {
