@@ -15,7 +15,7 @@ export default defineThemeConfig({
   appearance: true,  // 配置 深色模式
 
   social: [
-    { icon: 'github', link: 'https://github.com/issyugk3' },
+    { icon: 'github', link: 'https://github.com/issyugk3-zxw' },
     { icon: 'x', link:'https://x.com/issyugk3'},
     { icon: 'linkedin', link:''},
     { icon: {svg:kaggle_svg, name:'kaggle'}, link:'https://kaggle.com/issyugk3'},

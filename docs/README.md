@@ -19,5 +19,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/issyugk3
+          link: https://github.com/issyugk3-zxw
 ---

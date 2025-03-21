@@ -9,8 +9,12 @@ export const enNavbar = defineNavbarConfig([
     items: [
       { text: 'About Me', link: '/about/aboutme.md', icon:'material-symbols:person'
          },
-      { text: 'Experience', link: '/about/experience/README.md',
+      { text: 'Timeline', link: '/about/timeline.md',
         icon:'material-symbols:contract-edit-outline-rounded'
+       },
+       {
+        text: 'Skills', link: '/about/skills.md',
+        icon:'material-symbols:code'
        }
 
     ]
