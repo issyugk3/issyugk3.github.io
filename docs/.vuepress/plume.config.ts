@@ -37,7 +37,7 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
   footer: {
-    message: 'Powered by VuePress',
+    message: 'Powered by VuePress & Vue-Theme-Plume',
     copyright: '',
   },
 
