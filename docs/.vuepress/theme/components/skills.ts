@@ -129,7 +129,7 @@ export const ProgramLan = [
 
     {
         icon:'material-icon-theme:cpp',
-        name:'C++(Basiclly fotgot)'
+        name:'C++(Basiclly forgot)'
     },
 ]
 export const Certifications = [
