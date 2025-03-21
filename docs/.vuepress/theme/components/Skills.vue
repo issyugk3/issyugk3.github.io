@@ -9,6 +9,7 @@ const Languages = skills.Languages
 const ProgramLan = skills.ProgramLan
 const DML = skills.DML
 const otherTech = skills.otherTech
+const Hobbies = skills.Hobbies
 </script>
 
 <template>
@@ -70,9 +71,17 @@ const otherTech = skills.otherTech
             </div>
           </div>
         </Card>
-        <Card title="Online Course Certifications" icon="fluent-color:certificate-16">
+        <Card title="Certifications" icon="fluent-color:certificate-16">
             <div class="content">
             <div class="item" v-for="(skill, index) in Certifications" :key="index">
+                <Icon :name="`${skill.icon}`" />
+                <p><strong>{{ skill.name }}</strong></p>
+            </div>
+          </div>
+        </Card>
+        <Card title="Hobbies" icon="token-branded:fun">
+            <div class="content">
+            <div class="item" v-for="(skill, index) in Hobbies" :key="index">
                 <Icon :name="`${skill.icon}`" />
                 <p><strong>{{ skill.name }}</strong></p>
             </div>

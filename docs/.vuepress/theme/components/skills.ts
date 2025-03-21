@@ -159,3 +159,20 @@ export const otherTech = [
     },
 ]
 
+export const Hobbies = [
+    
+    {
+        icon:'game-icons:grand-piano',
+        name:'Piano(immature)'
+    },
+    {
+        icon:'fluent-color:game-chat-20',
+        name:'APEX | OverWatch2'
+    },
+    {
+        icon:'tdesign:earphone-filled',
+        name:'Jazz | Jpop | Kpop'
+    },
+    
+
+]

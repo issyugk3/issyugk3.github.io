@@ -14,12 +14,6 @@ My research interests lie at the intersection of **Machine Learning 🤖, Bioinf
 
 Throughout my undergraduate years, thanks to Professor Kecheng Zheng, I was very lucky to have the chance to participate in research projects on Computer Networks.  
 
-## My Hobbies
+## More
 
-I love **Jazz, Jpop, and some Kpop** types of music.
-
-I am also an avid gamer, particularly enjoying **FPS, Battle Royale, ACT, and RPG** genres.  
-
-
-I like front-end coding and I am a fan of Vue3 framwork, obviously. For more details about my tech stack, check out the *Experience* section.  
-
+I have written about the framework and other things including my hobbies in the "Skills" section. You can see more in there!
