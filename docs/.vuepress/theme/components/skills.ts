@@ -157,6 +157,14 @@ export const otherTech = [
         icon:'material-icon-theme:cuda',
         name:'CUDA(just started)'
     },
+    {
+        icon:'devicon:latex',
+        name:'LaTeX'
+    },
+    {
+        icon:'material-symbols:markdown-outline',
+        name:'Markdown'
+    },
 ]
 
 export const Hobbies = [
