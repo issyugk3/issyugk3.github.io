@@ -16,4 +16,4 @@ Throughout my undergraduate years, thanks to Professor Kecheng Zheng, I was very
 
 ## More
 
-I have written about the framework and other things including my hobbies in the "Skills" section. You can see more in there!
+I have marked down about the frameworks / techs that I am fimilar with, or I have used/studied, and other things including my hobbies in the "Skills" section. You can see more there!
