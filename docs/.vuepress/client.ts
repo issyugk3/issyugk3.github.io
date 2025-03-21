@@ -5,7 +5,7 @@ import { defineClientConfig } from 'vuepress/client'
 // import Swiper from 'vuepress-theme-plume/features/Swiper.vue'
 
 import Timeline from './theme/components/Timeline.vue'
-
+import Skills from './theme/components/Skills.vue'
 // import './theme/styles/custom.css'
 
 export default defineClientConfig({
@@ -18,6 +18,7 @@ export default defineClientConfig({
 
     // ustom components
     app.component('Timeline', Timeline)
+    app.component('Skills', Skills)
 
   },
 })

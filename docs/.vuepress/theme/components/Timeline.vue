@@ -11,43 +11,59 @@ const typeColors = timelineData.typeColors
 </script>
 
 <template>
-  <CardGrid>
-    <Card title="Education" icon="twemoji:books">
-      <el-timeline style="max-width: 600px">
-        <el-timeline-item
-          v-for="(item, index) in educationTimeline"
-          :key="index"
-          :timestamp="item.date"
-          placement="top"
-           :style="{ '--node-color': typeColors[item.type] }"
-        >
-          <el-card>
-            <p><strong>{{ item.detail }}</strong></p>
-          </el-card>
-        </el-timeline-item>
-      </el-timeline>
-    </Card>
+    <div class="timeline-container">
+        <div class="timeline-card">
+            <CardGrid>
+                <Card title="Education" icon="twemoji:books">
+                <el-timeline style="max-width: 600px">
+                    <el-timeline-item
+                    v-for="(item, index) in educationTimeline"
+                    :key="index"
+                    :timestamp="item.date"
+                    placement="top"
+                    :style="{ '--node-color': typeColors[item.type] }"
+                    >
+                    <el-card>
+                        <p><strong>{{ item.detail }}</strong></p>
+                    </el-card>
+                    </el-timeline-item>
+                </el-timeline>
+                </Card>
 
-    <Card title="Job & Internship" icon="twemoji:laptop-computer">
-      <el-timeline style="max-width: 600px">
-        <el-timeline-item
-          v-for="(item, index) in jobTimeline"
-          :key="index"
-          :timestamp="item.date"
-          placement="top"
-          :style="{ '--node-color': typeColors[item.type] }"
-        >
-          <el-card>
-            <h4>{{ item.title }}</h4>
-            <p>{{ item.detail }}</p>
-          </el-card>
-        </el-timeline-item>
-      </el-timeline>
-    </Card>
-  </CardGrid>
+                <Card title="Job & Internship" icon="twemoji:laptop-computer">
+                <el-timeline style="max-width: 600px">
+                    <el-timeline-item
+                    v-for="(item, index) in jobTimeline"
+                    :key="index"
+                    :timestamp="item.date"
+                    placement="top"
+                    :style="{ '--node-color': typeColors[item.type] }"
+                    >
+                    <el-card>
+                        <h4>{{ item.title }}</h4>
+                        <p>{{ item.detail }}</p>
+                    </el-card>
+                    </el-timeline-item>
+                </el-timeline>
+                </Card>
+            </CardGrid>
+        </div>
+    </div>
+
 </template>
 
 <style scoped>
+.timline-container{
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.timeline-card{
+    width: 95%;
+    margin: 0 auto; 
+}
+
 :deep(.el-timeline-item__timestamp) {
   color: var(--c-text);  
 }

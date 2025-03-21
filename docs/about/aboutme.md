@@ -2,6 +2,7 @@
 title: Hi / 你好 / こんにちは, I am @issyugk3 !
 createTime: 2025/03/20 15:48:00
 permalink: /about/aboutme/
+pageLayout: 'doc'
 ---
 ## 🌟 Who I Am  
 I am currently a senior undergraduate student at **Zhejiang University of Technology**, majoring in **Software Engineering**.  
