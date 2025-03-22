@@ -6,6 +6,7 @@ config:
     type: banner
     full: true
     background: tint-plate
+    banner: '/pics/wall.png'
     bannerMask: 0.6
     hero:
       name: issyugk3-zxw

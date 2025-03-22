@@ -10,7 +10,7 @@ const kaggle_svg = '<svg height="512px" style="enable-background:new 0 0 512 512
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://theme-plume.vuejs.press/plume.png',
+  logo: '/pics/star.png',
 
   appearance: true,  // 配置 深色模式
 
@@ -37,8 +37,8 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
   footer: {
-    message: 'Powered by VuePress & Vue-Theme-Plume',
-    copyright: '',
+    message: '',
+    copyright: 'Copyright © 2025-present issyugk3-zxw. All rights reserved.',
   },
 
   /* 过渡动画 @see https://theme-plume.vuejs.press/config/basic/#transition */
