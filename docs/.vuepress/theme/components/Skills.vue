@@ -25,7 +25,7 @@ const Hobbies = skills.Hobbies
           </div>
 
         </Card>
-        <Card title="Front-End" icon="icon-park:source-code">
+        <Card title="Front-End" icon="icon-park:page-template">
           <div class="content">
             <div class="item" v-for="(skill, index) in FrontEnd" :key="index">
                 <Icon :name="`${skill.icon}`" />
@@ -93,8 +93,10 @@ const Hobbies = skills.Hobbies
 </template>
 
 <style scoped>
+
 .skills-container {
   width: 100%;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -55,7 +55,7 @@ export const BackEnd = [
         name:'Redis'
     },
     {
-        icon:'skill-icons:linux-light',
+        icon:'flat-color-icons:linux',
         name:'Linux Shell'
     },
     {
@@ -158,7 +158,7 @@ export const otherTech = [
         name:'CUDA(just started)'
     },
     {
-        icon:'devicon:latex',
+        icon:'skill-icons:latex-light',
         name:'LaTeX'
     },
     {
